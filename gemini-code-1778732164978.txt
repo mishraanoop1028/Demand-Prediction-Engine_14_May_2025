@@ -1,0 +1,6 @@
+demand-prediction-engine/
+├── app.py              # Main Streamlit UI and Logic
+├── requirements.txt    # Project Dependencies
+├── README.md           # Documentation and Contact Info
+├── assets/             # (Optional) Logos or sample screenshots
+└── data/               # (Optional) Any sample CSVs or seed files
